@@ -1,6 +1,2 @@
-Hi, I'm Harry.  I am the cofounder of Devitas, and am planning on attending Williams College in the class of 2025.  I have a strong interest in coding as well as tech in general.  Please feel free to reach out, I would love to talk any time!
-
-<!---
-harryalbert/harryalbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I'm Harry, Student & Software Engineer. I am a student at Williams College majoring in Computer Science and Philosophy (expected graduation: 2025). I am also a 
+[Neo Scholar](https://neo.com/) and a former intern at Meta (Summer 2022). This summer I will be interning at [Bubble](https://bubble.io/) and based in NYC.
